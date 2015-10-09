@@ -39,7 +39,11 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
+<<<<<<< HEAD
 VIRTUAL_ENV="/home/r300x2/Desktop/RealPython/real-python-test/sql/env"
+=======
+VIRTUAL_ENV="/home/r300x2/Desktop/RealPython/real-python-test/env"
+>>>>>>> a3d3c5f8b533a6f2352213840001fce8e24e1fb0
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"

@@ -32,7 +32,11 @@ end
 # unset irrelevant variables
 deactivate nondestructive
 
+<<<<<<< HEAD
 set -gx VIRTUAL_ENV "/home/r300x2/Desktop/RealPython/real-python-test/sql/env"
+=======
+set -gx VIRTUAL_ENV "/home/r300x2/Desktop/RealPython/real-python-test/env"
+>>>>>>> a3d3c5f8b533a6f2352213840001fce8e24e1fb0
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/bin" $PATH

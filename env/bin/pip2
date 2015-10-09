@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 #!/home/r300x2/Desktop/RealPython/real-python-test/sql/env/bin/python
+=======
+#!/home/r300x2/Desktop/RealPython/real-python-test/env/bin/python
+>>>>>>> a3d3c5f8b533a6f2352213840001fce8e24e1fb0
 
 # -*- coding: utf-8 -*-
 import re
